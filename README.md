@@ -1,4 +1,4 @@
-# Supervised-Learning-Capstone-Project---Tree-Methods
+# Supervised-Learning-Capstone-Project:Tree-Methods
 
 Overview
 
