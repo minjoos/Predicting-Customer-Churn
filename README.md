@@ -12,7 +12,7 @@ Table of Contents
 	4.	Predictive Modeling
 	•	Decision Tree
 	•	Random Forest
-	•	Boosted Trees
+	•	Boosted Tree
 	5.	Results and Insights
 	6.	Conclusion
 
@@ -51,11 +51,11 @@ Random Forest
 	•	Evaluation: Similar to the decision tree, performance metrics and a confusion matrix are generated.
 	•	Feature Importance: The importance of features in the random forest model is analyzed.
 
-Boosted Trees
+Boosted Tree
 
 	•	Model Training: An AdaBoost classifier is trained.
 	•	Evaluation: Performance metrics and a confusion matrix are generated.
-	•	Feature Importance: Feature importance is analyzed for the boosted trees model.
+	•	Feature Importance: Feature importance is analyzed for the boosted tree model.
 
 Results and Insights
 
